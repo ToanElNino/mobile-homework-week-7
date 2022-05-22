@@ -1,0 +1,4 @@
+#Sun May 22 22:57:51 ICT 2022
+base.0=/Users/toanelnino/Documents/20212/Mobile/github-homework/mobile-homework-week-7/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
